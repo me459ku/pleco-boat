@@ -1,6 +1,6 @@
-baseURL = 'https://me459ku.github.io/project_site_template'
+baseURL = 'https://me459ku.github.io/pleco-boat'
 languageCode = 'en-us'
-title = 'Project Alpha'
+title = 'Pleco-Boat'
 theme = "learn"
 
 # For search functionality
