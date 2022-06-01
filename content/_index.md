@@ -12,7 +12,7 @@ A bootstrapped template based on Hugo Learn Theme. skjdla
 
 [This is the link](google.com)
 
-[KUWAIT.UNIVERSITY](https://en.wikipedia.org/wiki/Kuwait_University)
+[KUWAIT.UNIVEFFFFFFRSITY](https://en.wikipedia.org/wiki/Kuwait_University)
 
 
 Go to the theme [documentation](https://learn.netlify.app/en/) page to learn how to use the theme's features.
