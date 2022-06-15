@@ -4,50 +4,18 @@ date = 2022-01-16T12:26:22+03:00
 weight = 2
 +++
 
-## Opportunity
+## The Opportunity
 
+![](images/content-1510139774-img-1034-2.jpg?width=30pc)
 
-Here is some quick markdown syntax. For additional details visit the theme [documentation](https://learn.netlify.app/en/cont/markdown/) page. 
+Finding a solution for sea waste collected on seashores is a huge opportunity for a smart design. Because sea waste is leading to huge problems for the government, people and the planet its an important to tackle such a problem. As it is an obligation for everyone to help in solving a problem that affects everyone and if a solution is not to be found the problem will get bigger and more dangerous. As engineers we found that solving this problem smartly is a must.  
 
-# H1 Heading 
-## H2 Heading 
-### H3 Heading 
-#### H4 Heading 
-
-<!-- Comment -->
-
-Lines:
-
----
-
-___
-
-***
-
-**Bold Text**
-
-_Italic Text_
-
-~~Strikethrough~~
-
-> Block quote text
-
-```
+## Mission Satement
 | Option | Description |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-```
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-```
-![](images/2022-01-16-15-10-25.png?width=20pc)
-```
-
-![](images/2022-01-16-15-10-25.png?width=20pc)
+| Product Description  | sustainable, easy to use, affordable, wind resistance, portable, corrosion resistant, sustain heavy weight, can be disassembled, remotely controlled, recyclable, easy to set up, controlled speed, lightweight, supported with LED signals, accurate sensors, safe.  |
+| Benefit Proposition | Cleans the sea, Portable, Warranty, Suited for high temperature|
+|Primary Market  | Ministry of environment (Environment public authority |
+|Secondary Market  | Scientific center,  Individuals  |
+|Stakeholders | Ministry, Boatshops |
+|Assumptions and Constraints  | Average wave speed, Maximum operational temperature, Trunk size, Constant speed of conveyor belt. |

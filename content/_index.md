@@ -2,24 +2,16 @@
 title: "Summary"
 ---
 
-# Summary one
-### Bootstrapped Template
-## BAder
+# Pleco Boat
 
-{{< youtube 423uyTLzZbA>}}
+## Abstract
+The **Pleco Boat** was made to solve the problem of dealing with the collected waste on seashores which danger the marine life and lead to pollution it is designed to be a remotely controlled boat that allows the user to clean the seashores. A whole designing cycle was done so that the device is efficient on every aspect by a team of four undergraduate Kuwait University students. 
 
-A bootstrapped template based on Hugo Learn Theme. skjdla  
+____________________________________________________________
 
-[This is the link](google.com)
+Done by 
+- Abdulaziz Lotfi
+- Mohammed Awayda
+- Bader Alhadidi
+- Anas Hamdan
 
-[KUWAIT.UNIVEFFFFFFRSITY](https://en.wikipedia.org/wiki/Kuwait_University)
-
-
-Go to the theme [documentation](https://learn.netlify.app/en/) page to learn how to use the theme's features.
-
-![](images/bicycle.jpg?width=20pc)
-
-[PDF file](files/Instructions_Fall2021.pdf)
-
-![](images/moving_bike.gif)
-![](images/kuwait-university-logo-2E8FCFC01F-seeklogo.com.png)
